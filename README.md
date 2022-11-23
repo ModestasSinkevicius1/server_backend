@@ -4,3 +4,5 @@
 - APIs
 - Server structure
 - Auhtorization
+
+To execute server type in terminal 'npm start'
